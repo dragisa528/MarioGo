@@ -1,40 +1,23 @@
-Contribution: 2020-10-22 20:00
+MarioGo
+=============
 
-Contribution: 2020-10-22 20:01
+An attempt to recreate the first level of Super Mario Bros.
 
-Contribution: 2020-10-23 20:00
+CONTROLS: 
 
-Contribution: 2020-10-28 20:00
+Arrow keys for direction
 
-Contribution: 2020-10-28 20:01
+'a' for jump
 
-Contribution: 2020-10-30 20:00
+'s' for action (fireball, run)
 
-Contribution: 2020-10-30 20:01
 
-Contribution: 2020-11-02 20:00
+DEPENDENCIES:
 
-Contribution: 2020-11-02 20:01
+Pygame 1.9.1 (Python 2)
 
-Contribution: 2020-11-02 20:02
+Pygame 1.9.2 (Python 3) - a little trickier to get going.
 
-Contribution: 2020-11-03 20:00
+To install dependencies for Python 2.x:
 
-Contribution: 2020-11-03 20:01
-
-Contribution: 2020-11-03 20:02
-
-Contribution: 2020-11-04 20:00
-
-Contribution: 2020-11-05 20:00
-
-Contribution: 2020-11-09 20:00
-
-Contribution: 2020-11-09 20:01
-
-Contribution: 2020-11-10 20:00
-
-Contribution: 2020-11-10 20:01
-
-Contribution: 2020-11-10 20:02
-
+	pip install -r requirements.txt
